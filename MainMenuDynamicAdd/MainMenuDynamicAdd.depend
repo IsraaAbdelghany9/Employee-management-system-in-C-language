@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729687413 source:c:\users\msi\courses\iti\content\c programming\day-7-lab\lab\mainmenudynamicadd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1734387425 source:c:\users\msi\courses\iti\iti_ai-ml_9m\fundamentals\c programming\day-7-lab\lab\mainmenudynamicadd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
