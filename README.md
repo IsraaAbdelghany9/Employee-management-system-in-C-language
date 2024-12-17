@@ -27,7 +27,7 @@ Exits the program while freeing all dynamically allocated memory to prevent memo
 ---
 ## **Short Demo Video**
 
-![Watch the demo](shortDemo2.mp4)
+![Watch the demo](shortDemo3.mp4)
 
 ---
 ##  **System Requirements**
