@@ -1,7 +1,5 @@
 # Employee-management-system-in-C-language
 
-# **Employee Management System Project**
-
 This project is a **console-based Employee Management System** written in C. It demonstrates the use of **dynamic memory allocation** for managing employee records.
 
 ---
@@ -29,7 +27,7 @@ Exits the program while freeing all dynamically allocated memory to prevent memo
 ---
 ## **Short Demo Video**
 
-![Watch the demo](demo.mp4)
+![Watch the demo](shortDemo.mp4)
 
 ---
 ##  **System Requirements**
